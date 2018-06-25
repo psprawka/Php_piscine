@@ -1,0 +1,83 @@
+html {
+	
+	margin: 0;
+	padding: 0;
+	font-size: 1vmin;
+}
+
+body {
+	background-color: #004D40;
+}
+
+header {
+	position: relative;
+	width: 100%;
+	height: 10%;
+	background-color: #311B92;
+	box-shadow: 1px 2px 6px rgba(0, 0, 0, .5);
+}
+
+header .header {
+	position: relative;
+	width: 25%;
+	height: 100%;
+	margin: auto;
+	float: left;
+}
+
+header .header_name {
+	position: relative;
+	font-size: 3em;
+	color: #607D8B;
+	top: 25%;
+	left: 15%;
+	margin: auto;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.main_view {
+	position: relative;
+	background-color: #f2f2f2;
+	width: 95%;
+	height: 50%;
+	margin: 5% auto;
+	box-shadow: 0px 2px 24px 5px rgba(0, 0, 0, .5);
+}
+
+.main_view .table {
+	position: relative;
+	top: 2%;
+	margin: auto;
+	width: 95%;
+	height: 95%;
+}
+
+.actual {
+	margin: auto;
+}
+
+.buttons {
+	display: block;
+	margin: auto;
+	text-align: center;
+	float: left;
+}
+
+.button_wrapper {
+	display: block;
+	width: 15%;
+	margin: auto;
+	margin-left: 50%;
+}
+
+.button_wrapper::after{
+	display:block;
+	content: ".";
+	visibility: hidden;
+	clear: both;
+}
+
+
+.table form {
+	margin: 0;
+}

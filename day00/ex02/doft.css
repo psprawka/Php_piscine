@@ -1,0 +1,130 @@
+body
+{
+    background-color: #5d5f60;
+}
+
+#container
+{
+    width: 70vw;
+    margin: auto;
+}
+
+#nav
+{
+    width: 90%%;
+    background: #8f9091;
+    border-radius: 5px;
+    box-shadow: 5px 5px 12px black;
+    margin: 1%;
+}
+
+#logo
+{
+   width: 30%;
+   height: 7vw;
+   float: left;
+}
+
+#loupe
+{
+    width: 66%;
+    height: 7vw;
+    float: left;
+    text-align: right;
+}
+
+#icons
+{
+    width: 4%;
+    height: 7vw;
+    float:left;
+}
+
+.icon
+{
+    height: 50%;
+    float: left;
+    width: 100%;
+
+}
+
+.image
+{
+    max-width:60%;
+    max-height:60%;
+    display: block;
+    float: right;
+    padding: 2px;
+}
+
+.sidebar
+{
+    width: 8%;
+    float: left;
+    margin: 2%;
+    background: #8f9091;
+    border-radius: 5px;
+    height: 24vw;
+    box-shadow: 5px 5px 12px black;
+}
+
+.img_sb
+{
+    max-width:75%;
+    max-height:75%;
+    display: block;
+    margin: auto;
+    padding: 5%;
+    text-align: center;
+}
+
+#b_left
+{
+    width: 50%;
+    float: right;
+    margin-left: 0;
+}
+
+#b_right
+{
+    width: 50%;
+    float: left;
+    margin-right: 0;
+}
+
+#content
+{
+    float: left;
+    width: 74%;
+    height: auto;
+    background: #8f9091;
+    padding: 1%;
+    margin: 2% 0 -1% 0;
+    border-radius: 5px;
+    box-shadow: 5px 5px 12px black;
+}
+
+#img_main
+{
+    max-width:100%;
+    max-height:100%;
+    border-radius: 5px;
+    
+/*    margin: 7.5%;*/
+/*    padding: 5%;*/
+/*    float: left;*/
+
+}
+
+#form
+{
+    position: relative;
+    background: lightgreen;
+    padding: 0 0% 2% 2%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 12px black;
+    margin: -2% 0 0 -3%;
+    width: 35%;
+    font-size: 1vw;
+}
+

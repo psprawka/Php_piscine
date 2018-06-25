@@ -1,0 +1,51 @@
+body
+{
+    width: 90vw;
+    margin: auto;
+}
+table
+{
+    height: 200px;
+    
+}
+.row
+{
+    display: flex;
+    text-align: center;
+    min-height: 6vmin;
+}
+.cell
+{
+    width: 5.5%;
+    float: left;
+    height: 100%;
+    margin: 1px;
+    padding: 0.5vw;
+    
+}
+.full
+{
+    background-color: #B86393;
+    width: 5.5%;
+    float: left;
+    padding: 0.5vw;
+    border-radius: 5px;
+    border: solid 1px;
+    font-size: 2.5vw;
+}
+.symbol
+{
+    font-size: 2.2vw;
+}
+
+.nb
+{
+    font-size: 1vw;
+    text-align: left;
+}
+.weight
+{
+    font-size: 0.75vw;
+    text-align: right;
+    
+}
