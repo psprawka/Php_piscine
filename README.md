@@ -2,6 +2,7 @@
 This project is a quick introdution to backend technologies, sql requests and html/css/js from the very beginning. 📖
 
 Php piscine consits of 10 daily projects and two team projects (called rush0x), allowing you to create some real-life code like a fully fuctional e-commerce website.
+</br>
 
 ### Subjects:
 * [Day00 of php piscine](https://github.com/psprawka/Php_piscine/day00/d00.en.pdf) 
@@ -15,14 +16,21 @@ Php piscine consits of 10 daily projects and two team projects (called rush0x), 
 * [Day08 of php piscine](https://github.com/psprawka/Php_piscine/day08/d08.en.pdf)
 * [Day09 of php piscine](https://github.com/psprawka/Php_piscine/day09/d09.en.pdf)
 * [Rush00 - php piscine](https://github.com/psprawka/Php_piscine/rush00/rush00.en.pdf)
+</br>
+
 
 ### How to run the exercises?
 Some of the exercises that contain .php extention can be run directly from a shell, but some of them may require a local server like Mamp or so.
+</br></br>
+
+
 
 ### My grades for php_piscine
 I did not submit all the days since I didn't have time to finish all of them due to multiple ongoing projects.
 <p float="left">
   <img src="imgs/score.png" width="26.4%"/>
 </p>
+</br>
+
 
 ### Have fun and use the code wisely! 🚔
