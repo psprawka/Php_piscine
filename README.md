@@ -21,6 +21,8 @@ Some of the exercises that contain .php extention can be run directly from a she
 
 ### My grades for php_piscine
 I did not submit all the days since I didn't have time to finish all of them due to multiple ongoing projects.
-![](imgs/score.png)
+<p float="left">
+  <img src="imgs/score.png" width="26.4%"/>
+</p>
 
 ### Have fun and use the code wisely! 🚔
